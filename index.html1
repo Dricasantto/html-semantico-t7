@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+
+<head> 
+
+<body>
+<header>
+    <h1>Explorando as Tags Semânticas do HTML</h1>
+    <nav>
+        <ul>
+            <li><a href="#introducao">Introdução</a></li>
+            <li><a href="#secao1">Seção 1</a></li>
+            <!-- Adicione os links para as outras seções aqui -->
+        </ul>
+    </nav>
+</header>
+</body>
+
+</html>
+
+
